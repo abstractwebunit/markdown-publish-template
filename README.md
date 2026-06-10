@@ -2,7 +2,7 @@
 
 Твои Markdown/Obsidian-заметки → быстрый статический сайт: поиск, граф связей, тёмная тема.
 
-**Документация и живое демо:** https://abstractwebunit.github.io/markdown-publish/
+**Документация и живое демо:** https://abstractwebunit.github.io/markdown-publish-docs/
 
 ## Опубликовать за пару кликов
 
