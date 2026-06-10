@@ -1,0 +1,8 @@
+{
+  "siteName": "Мои заметки",
+  "siteDescription": "Личная база знаний",
+  "siteLang": "ru",
+  "vaultDir": "vault",
+  "buildMode": "full",
+  "out": "dist"
+}
