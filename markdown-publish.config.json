@@ -1,7 +1,7 @@
 {
-  "siteName": "Мои заметки",
-  "siteDescription": "Личная база знаний",
-  "siteLang": "ru",
+  "siteName": "My Notes",
+  "siteDescription": "Personal knowledge base",
+  "siteLang": "en",
   "vaultDir": "vault",
   "buildMode": "full",
   "out": "dist"

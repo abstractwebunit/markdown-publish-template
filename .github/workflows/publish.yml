@@ -20,7 +20,7 @@ jobs:
           vault-dir: vault
           base-href: "/${{ github.event.repository.name }}/"
           site-url: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
-          site-lang: ru
+          site-lang: en
   deploy:
     needs: build
     runs-on: ubuntu-latest
