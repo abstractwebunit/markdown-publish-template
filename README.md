@@ -6,7 +6,7 @@
 
 <p align="center">
   Your Markdown/Obsidian notes → a fast static website: search, link graph, dark theme.<br>
-  <sub>Starter template for <a href="https://github.com/abstractwebunit/markdown-publish">markdown-publish</a></sub>
+  <sub>A free alternative to Obsidian Publish · Starter template for <a href="https://github.com/abstractwebunit/markdown-publish">markdown-publish</a></sub>
 </p>
 
 <p align="center">
